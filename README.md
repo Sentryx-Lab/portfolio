@@ -6,12 +6,13 @@
 
 ## Contests
 
-The Sentryx team has participated in 2 contests and managed to uncover a total of 2 High and 2 Medium severity issues.
+The Sentryx team has participated in 3 contests and managed to uncover a total of 9 High and 12 Medium severity issues.
 
 **Dive in our audits portfolio to check out our work!**
 
 | № | Date | Protocol |  Findings | Report | Type | Platform | Details |
 |--------|----------|------|-------------|-----------|------|------|------|
+|3|Apr 2024|Noya| High - 7 (1), Medium - 10 | Soon|Yield optimization|Code4rena| 4th place|
 |2|Apr 2024|Zivoe| High - 1, Medium - 1| [Link](/contests/Zivoe-04-24.md)|RWA Credit|Sherlock|-|
 |1|Mar 2024|AxisFinance| High - 1, Medium - 1| [Link](/contests/AxisFinance-03-24.md)|Auction|Sherlock|-|
 
