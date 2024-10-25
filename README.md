@@ -4,6 +4,10 @@
 
 <img src="https://pbs.twimg.com/profile_banners/1775568945090646016/1712167433/1500x500" height="250">
 
+## All Time Stats
+
+In total we've found **14 High** Severity issues (1 of which unique) and **15 Medium** Severity issues (1 of which unique) across **6 different** audits.
+
 ## Contests
 
 The Sentryx team has participated in 3 contests and managed to uncover a total of 9 High and 12 Medium severity issues.
@@ -12,7 +16,7 @@ The Sentryx team has participated in 3 contests and managed to uncover a total o
 
 | № | Date | Protocol |  Findings | Report | Type | Platform | Details |
 |--------|----------|------|-------------|-----------|------|------|------|
-|6|Sep 2024|Flayer|High - 9, Medium - 4|Soon|NFT|Sherlock|-|
+|6|Sep 2024|Flayer|High - 3, Medium - 1 (1)|[Link](/contests/Flayer-10-24.md)|NFT|Sherlock|-|
 |5|Jun 2024|Velocimeter|High - 2, Medium - 2|[Link](/contests/Velocimeter-06-24.md)|DEX|Sherlock|-|
 |4|Jun 2024|Size|High - 1, Medium - 1|[Link](/contests/Size-06-24.md)|Credit marketplace|Code4rena|-|
 |3|Apr 2024|Noya|High - 7 (1), Medium - 10| Soon|Yield optimization|Code4rena| 4th place|
