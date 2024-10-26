@@ -7,8 +7,8 @@
 
 |Severity|Issues|Unique|
 |--|--|--|
-|High|2|0|
-|Medium|2|0|
+|[High](#high)|2|0|
+|[Medium](#medium)|2|0|
 
 # Findings
 
