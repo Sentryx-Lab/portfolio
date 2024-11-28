@@ -6,7 +6,7 @@
 
 ## All Time Stats
 
-In total we've found **15 High** Severity issues (1 of which unique) and **17 Medium** Severity issues (1 of which unique) across **6 different** audits.
+In total we've found **15 High** Severity issues (1 of which unique) and **18 Medium** Severity issues (1 of which unique) across **7 different** audits.
 
 **Dive in our audits portfolio to check out our work!**
 
@@ -14,6 +14,7 @@ In total we've found **15 High** Severity issues (1 of which unique) and **17 Me
 
 | № | Date | Protocol |  Findings | Report | Type | Platform | Details |
 |--------|----------|------|-------------|-----------|------|------|------|
+|7|Sep 2024|[Symbiotic](https://cantina.xyz/competitions/8bab566e-a6d4-4c1b-9f28-71a94bfd1da2)|Medium - 1|Undisclosed|Restaking|Cantina|-|
 |6|Sep 2024|[Flayer](https://audits.sherlock.xyz/contests/468)|High - 3, Medium - 1 (1)|[Link](/contests/Flayer-10-24.md)|NFT|Sherlock|-|
 |5|Jun 2024|[Velocimeter](https://audits.sherlock.xyz/contests/442)|High - 2, Medium - 2|[Link](/contests/Velocimeter-06-24.md)|DEX|Sherlock|-|
 |4|Jun 2024|[Size](https://code4rena.com/audits/2024-06-size)|High - 1, Medium - 2|[Link](/contests/Size-06-24.md)|Credit marketplace|Code4rena|-|
